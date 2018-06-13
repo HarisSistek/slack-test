@@ -11,3 +11,4 @@ Name | Meaning
 -- | ---------
 Java | language
 C | language
+Python | language
